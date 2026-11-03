@@ -5,6 +5,10 @@
 ConvUtils is a fast, secure, offline desktop tool for batch converting 3D models and images.  
 No internet required after installation. Your files never leave your computer.
 
+## Preview
+
+![ConvUtils - Offline Batch 3D Model and Image Converter](ConvUtils.png)
+
 ## Features
 - Batch convert 3MF, STL, OBJ, GLB, PLY, FBX and more
 - Image to 3D / Text to 3D
